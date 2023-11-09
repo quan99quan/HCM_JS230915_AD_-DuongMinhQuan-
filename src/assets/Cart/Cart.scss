@@ -1,0 +1,26 @@
+.cart{
+    background-color: black;
+    position: absolute;
+  z-index: 999; 
+  border: 1px solid #ccc;
+    padding: 10px;
+    width: 500px;
+    right: 10px;
+    height: 150px;
+   overflow-y: scroll;
+}
+img{
+    width: 40px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+   button{
+    height: 30px;
+    width: 20px;
+   }
+}

@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "name":"Điện thoại Samsung Galaxy S21",
+        "price":20000000,
+        "image":"/src/assets/image/S21.png",
+        "quantity":1
+    },
+    {
+        "id":2,
+        "name":"Điện thoại Iphone14 Promax",
+        "price":20500000,
+        "image":"/src/assets/image/iphone.webp",
+        "quantity":1
+    },
+    {
+        "id":3,
+        "name":"Điện thoại Samsung Galaxy S20",
+        "price":21000000,
+        "image":"/src/assets/image/s20.jpg",
+        "quantity":1
+    },
+    {
+        "id":4,
+        "name":"Điện thoại Iphone11 Promax",
+        "price":21500000,
+        "image":"/src/assets/image/11promax.jfif",
+        "quantity":1
+    },
+    {
+        "id":5,
+        "name":"Điện thoại Samsung Galaxy S22",
+        "price":22000000,
+        "image":"/src/assets/image/s22.jfif",
+        "quantity":1
+    },
+    {
+        "id":6,
+        "name":"Điện thoại Samsung Galaxy S23",
+        "price":22500000,
+        "image":"/src/assets/image/s23.jfif",
+        "quantity":1
+    },
+    {
+        "id":7,
+        "name":"Điện thoại Oppo A9",
+        "price":23000000,
+        "image":"/src/assets/image/A9.jfif",
+        "quantity":1
+    },
+    {
+        "id":8,
+        "name":"Điện thoại Oppo V5",
+        "price":23500000,
+        "image":"/src/assets/image/V5.jfif",
+        "quantity":1
+    },
+    {
+        "id":9,
+        "name":"Điện thoại Oppo V5s",
+        "price":24000000,
+        "image":"/src/assets/image/A5s.jfif",
+        "quantity":1
+    },
+    {
+        "id":10,
+        "name":"Điện thoại Oppo A73",
+        "price":24500000,
+        "image":"/src/assets/image/A73.jpg",
+        "quantity":1
+    }
+]
+
+
+
+
+      
